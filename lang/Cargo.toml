@@ -1,0 +1,7 @@
+[package]
+name = "rusty_lang"
+version = "0.0.1"
+authors = ["Neil Mock <neilmock@gmail.com>"]
+workspace = ".."
+
+[dependencies]

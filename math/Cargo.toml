@@ -1,0 +1,8 @@
+[package]
+name = "rusty_math"
+version = "0.0.1"
+authors = ["Neil Mock <neilmock@gmail.com>"]
+workspace = ".."
+
+[dependencies]
+num = "0.1.40"

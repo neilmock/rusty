@@ -1,0 +1,11 @@
+[package]
+name = "rusty"
+version = "0.0.0"
+authors = ["Neil Mock <neilmock@gmail.com>"]
+
+[workspace]
+members = ["lang", "math"]
+
+[dependencies]
+rusty_lang = { path = "./lang" }
+rusty_math = { path = "./math" }
